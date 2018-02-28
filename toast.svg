@@ -1,0 +1,6 @@
+<svg id="toast" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 230">
+  <title>Toast Symbol</title>
+  <rect x="13" y="40" width="171" height="190" rx="11.66" ry="11.66"/>
+  <rect x="74.96" y="90" width="43.98" height="40" rx="11.66" ry="11.66" fill="#f9f9f9"/>
+  <ellipse cx="97.5" cy="40.5" rx="97.5" ry="40.5" fill="#050505"/>
+</svg>

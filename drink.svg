@@ -1,0 +1,7 @@
+<svg id="drink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119 197.06">
+  <title>Drink Symbol</title>
+  <polygon points="0 44.06 34.73 196.64 87.89 197.06 119 44.06 0 44.06" fill="#050505"/>
+  <rect x="58.15" y="2.5" width="5.85" height="55.63"/>
+  <rect x="146.3" y="4.65" width="5.06" height="55.63" rx="2.53" ry="2.53" transform="translate(53.37 151.37) rotate(-90)"/>
+  <polygon points="15 63.06 40.88 176.75 80.49 177.06 103.67 63.06 15 63.06" fill="#fff"/>
+</svg>

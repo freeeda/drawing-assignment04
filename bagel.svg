@@ -1,0 +1,17 @@
+<svg id="bagel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 218 218">
+  <title>Bagel Symbol</title>
+  <circle cx="109" cy="109" r="109"/>
+  <path d="M71,125c0-15.22,9.18-24.49,20-34,9.6-8.43,20-18,34-18,14.41,0,37.32,9.15,47,18,10.36,9.47,7,19.16,7,34,0,7.12-5.08,12.39-10,17-16,15-22,28-44,35-12,3.81-29.83-1.07-39-8C73.4,159.48,71,141.62,71,125Z" transform="translate(-16 -16)" fill="#fff"/>
+  <rect x="102" y="50" width="4" height="7" transform="translate(-26.92 59.22) rotate(-37.92)" fill="#fff"/>
+  <rect x="153" y="52" width="5" height="5" transform="translate(13.13 -67.23) rotate(20.6)" fill="#fff"/>
+  <rect x="186" y="80" width="3" height="7" transform="translate(-32.54 45.21) rotate(-17.77)" fill="#fff"/>
+  <rect x="198" y="109" width="5" height="5" transform="translate(-42.88 65.01) rotate(-21.44)" fill="#fff"/>
+  <rect x="193" y="145" width="5" height="7" transform="translate(95.28 -98.11) rotate(32.72)" fill="#fff"/>
+  <rect x="175" y="178" width="3" height="5" transform="translate(144.66 -87.46) rotate(40.76)" fill="#fff"/>
+  <rect x="119" y="182" width="5" height="8" fill="#fff"/>
+  <rect x="73" y="178" width="5" height="7" fill="#fff"/>
+  <rect x="37" y="158" width="7" height="4" fill="#fff"/>
+  <rect x="27" y="122" width="6" height="4" fill="#fff"/>
+  <rect x="29" y="82" width="7" height="3" fill="#fff"/>
+  <rect x="63" y="71" width="7" height="4" transform="translate(21.86 -37.5) rotate(25.47)" fill="#fff"/>
+</svg>

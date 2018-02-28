@@ -1,0 +1,10 @@
+<svg id="cupcake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 185">
+  <title>Cupcake Symbol</title>
+  <polygon points="8 75 52.66 184.7 121 185 161 75 8 75" fill="#050505"/>
+  <ellipse cx="85" cy="52.5" rx="85" ry="52.5" fill="#050505"/>
+  <rect x="9" y="75" width="152" height="6" rx="3" ry="3" fill="#f9f7f7"/>
+  <rect x="90.15" y="150.43" width="3.37" height="55.63" transform="translate(-82.43 -12.85) rotate(-15.55)" fill="#f9f7f7"/>
+  <rect x="75.15" y="105.43" width="3.37" height="55.63" fill="#f9f7f7"/>
+  <rect x="95.15" y="105.43" width="3.37" height="55.63" fill="#f9f7f7"/>
+  <rect x="153.15" y="151.43" width="3.37" height="55.63" transform="translate(6.16 -74.17) rotate(12.96)" fill="#f9f7f7"/>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+  <symbol id="bagel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 218 218">
+    <title>Bagel Symbol</title>
+    <circle cx="109" cy="109" r="109"/>
+    <path d="M71,125c0-15.22,9.18-24.49,20-34,9.6-8.43,20-18,34-18,14.41,0,37.32,9.15,47,18,10.36,9.47,7,19.16,7,34,0,7.12-5.08,12.39-10,17-16,15-22,28-44,35-12,3.81-29.83-1.07-39-8C73.4,159.48,71,141.62,71,125Z" transform="translate(-16 -16)" fill="#fff"/>
+    <rect x="102" y="50" width="4" height="7" transform="translate(-26.92 59.22) rotate(-37.92)" fill="#fff"/>
+    <rect x="153" y="52" width="5" height="5" transform="translate(13.13 -67.23) rotate(20.6)" fill="#fff"/>
+    <rect x="186" y="80" width="3" height="7" transform="translate(-32.54 45.21) rotate(-17.77)" fill="#fff"/>
+    <rect x="198" y="109" width="5" height="5" transform="translate(-42.88 65.01) rotate(-21.44)" fill="#fff"/>
+    <rect x="193" y="145" width="5" height="7" transform="translate(95.28 -98.11) rotate(32.72)" fill="#fff"/>
+    <rect x="175" y="178" width="3" height="5" transform="translate(144.66 -87.46) rotate(40.76)" fill="#fff"/>
+    <rect x="119" y="182" width="5" height="8" fill="#fff"/>
+    <rect x="73" y="178" width="5" height="7" fill="#fff"/>
+    <rect x="37" y="158" width="7" height="4" fill="#fff"/>
+    <rect x="27" y="122" width="6" height="4" fill="#fff"/>
+    <rect x="29" y="82" width="7" height="3" fill="#fff"/>
+    <rect x="63" y="71" width="7" height="4" transform="translate(21.86 -37.5) rotate(25.47)" fill="#fff"/>
+  </symbol>
+
+  <symbol id="cupcake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 185">
+    <title>Cupcake Symbol</title>
+    <polygon points="8 75 52.66 184.7 121 185 161 75 8 75" />
+    <ellipse cx="85" cy="52.5" rx="85" ry="52.5" />
+    <rect x="9" y="75" width="152" height="6" rx="3" ry="3" fill="#f9f7f7"/>
+    <rect x="90.15" y="150.43" width="3.37" height="55.63" transform="translate(-82.43 -12.85) rotate(-15.55)" fill="#f9f7f7"/>
+    <rect x="75.15" y="105.43" width="3.37" height="55.63" fill="#f9f7f7"/>
+    <rect x="95.15" y="105.43" width="3.37" height="55.63" fill="#f9f7f7"/>
+    <rect x="153.15" y="151.43" width="3.37" height="55.63" transform="translate(6.16 -74.17) rotate(12.96)" fill="#f9f7f7"/>
+  </symbol>
+
+  <symbol id="drink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119 197.06">
+    <title>Drink Symbol</title>
+    <polygon points="0 44.06 34.73 196.64 87.89 197.06 119 44.06 0 44.06" />
+    <rect x="58.15" y="2.5" width="5.85" height="55.63"/>
+    <rect x="146.3" y="4.65" width="5.06" height="55.63" rx="2.53" ry="2.53" transform="translate(53.37 151.37) rotate(-90)"/>
+    <polygon points="15 63.06 40.88 176.75 80.49 177.06 103.67 63.06 15 63.06" fill="#fff"/>
+  </symbol>
+
+  <symbol id="icecream" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111 221">
+    <title>Icecream Symbol</title>
+    <path d="M73,91l30.35,99.4L126.82,240l23-49.33L177,91s-38.52,5.85-51.56,5.86C112.18,96.88,73,91,73,91Z" transform="translate(-70 -19)" />
+    <circle cx="55.5" cy="55.5" r="55.5" />
+    <rect x="1" y="78" width="108" height="6" rx="3" ry="3" fill="#f9f7f7"/>
+  </symbol>
+
+  <symbol id="toast" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 230">
+    <title>Toast Symbol</title>
+    <rect x="13" y="40" width="171" height="190" rx="11.66" ry="11.66"/>
+    <rect x="74.96" y="90" width="43.98" height="40" rx="11.66" ry="11.66" fill="#f9f9f9"/>
+    <ellipse cx="97.5" cy="40.5" rx="97.5" ry="40.5" />
+  </symbol>
+
+</svg>
